@@ -23,6 +23,7 @@ I want the tech to help in everyday life without needing constant attention, so 
 | Project | Type | What it does | Status | Install |
 |---|---|---|---|---|
 | 🏃 [Garmin Connect MCP](https://github.com/mw-hbg/ha-garmin-mcp) | Home Assistant app | Lets AI assistants (Claude, ChatGPT, …) read your Garmin Connect training and health data and plan workouts on your watch – via the Model Context Protocol (MCP). | 🧪 experimental | [![Add to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmw-hbg%2Fha-garmin-mcp) |
+| 📍 [Whereabouts](https://github.com/mw-hbg/ha-whereabouts) | HACS integration | Live map ("Where is…?") and long-term location history for the persons in Home Assistant – stays with addresses, permissions per user, import and export (CSV, GPX). | 🚧 in development | [![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mw-hbg&repository=ha-whereabouts&category=integration) |
 
 ### Feedback
 Found a bug or have an idea? Feel free to open an issue in the project's repository. Feedback is always welcome.
@@ -49,6 +50,7 @@ Die Technik soll im Alltag helfen, ohne ständig Aufmerksamkeit zu brauchen – 
 | Projekt | Typ | Was es macht | Status | Installieren |
 |---|---|---|---|---|
 | 🏃 [Garmin Connect MCP](https://github.com/mw-hbg/ha-garmin-mcp) | Home-Assistant-App | KI-Assistenten (Claude, ChatGPT, …) lesen deine Trainings- und Gesundheitsdaten aus Garmin Connect und planen Workouts auf deiner Uhr – über das Model Context Protocol (MCP). | 🧪 experimentell | [![Zu Home Assistant hinzufügen](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmw-hbg%2Fha-garmin-mcp) |
+| 📍 [Whereabouts](https://github.com/mw-hbg/ha-whereabouts) | HACS-Integration | Live-Karte („Wo ist…?“) und dauerhafter Standortverlauf für die Personen in Home Assistant – Aufenthalte mit Adressen, Rechte pro Benutzer, Import und Export (CSV, GPX). | 🚧 in Entwicklung | [![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mw-hbg&repository=ha-whereabouts&category=integration) |
 
 ### Feedback
 Fehler gefunden oder eine Idee? Einfach ein Issue im Repository des Projekts anlegen – Rückmeldungen sind immer willkommen.
