@@ -25,6 +25,11 @@ I want the tech to help in everyday life without needing constant attention, so 
 | 🏃 [Garmin Connect MCP](https://github.com/mw-hbg/ha-garmin-mcp) | Home Assistant app | Lets AI assistants (Claude, ChatGPT, …) read your Garmin Connect training and health data and plan workouts on your watch – via the Model Context Protocol (MCP). | 🧪 experimental | [![Add to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmw-hbg%2Fha-garmin-mcp) |
 | 📍 [Whereabouts](https://github.com/mw-hbg/ha-whereabouts) | Home Assistant integration (Marketplace) | Live map ("Where is…?") and long-term location history for the persons in Home Assistant – stays with addresses, permissions per user, import and export (CSV, GPX). | 🚧 in development | [![Open in the Marketplace](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mw-hbg&repository=ha-whereabouts&category=integration) |
 
+### Support
+Everything I build is free and stays free. If my projects are useful to you, you're welcome to buy me a coffee – entirely voluntary, nothing in return, just a thank-you that keeps me motivated. ☕ Note: payments to a private person are not tax-deductible donations.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mwhbg)
+
 ### Feedback
 Found a bug or have an idea? Feel free to open an issue in the project's repository. Feedback is always welcome.
 Security problems please report privately (*Security → Report a vulnerability*).
@@ -51,6 +56,11 @@ Die Technik soll im Alltag helfen, ohne ständig Aufmerksamkeit zu brauchen – 
 |---|---|---|---|---|
 | 🏃 [Garmin Connect MCP](https://github.com/mw-hbg/ha-garmin-mcp) | Home-Assistant-App | KI-Assistenten (Claude, ChatGPT, …) lesen deine Trainings- und Gesundheitsdaten aus Garmin Connect und planen Workouts auf deiner Uhr – über das Model Context Protocol (MCP). | 🧪 experimentell | [![Zu Home Assistant hinzufügen](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmw-hbg%2Fha-garmin-mcp) |
 | 📍 [Whereabouts](https://github.com/mw-hbg/ha-whereabouts) | Home-Assistant-Integration (Marketplace) | Live-Karte („Wo ist…?“) und dauerhafter Standortverlauf für die Personen in Home Assistant – Aufenthalte mit Adressen, Rechte pro Benutzer, Import und Export (CSV, GPX). | 🚧 in Entwicklung | [![Open in the Marketplace](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mw-hbg&repository=ha-whereabouts&category=integration) |
+
+### Unterstützen
+Alles, was ich baue, ist kostenlos und bleibt es auch. Wenn dir meine Projekte nützen, kannst du mir gern einen Kaffee ausgeben – völlig freiwillig und ohne Gegenleistung, einfach als Dankeschön, das motiviert. ☕ Hinweis: Zahlungen an eine Privatperson sind keine steuerlich absetzbaren Spenden.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Kaffee_ausgeben-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mwhbg)
 
 ### Feedback
 Fehler gefunden oder eine Idee? Einfach ein Issue im Repository des Projekts anlegen – Rückmeldungen sind immer willkommen.
